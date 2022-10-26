@@ -1,0 +1,35 @@
+/*
+Theme Name: Learn Excel Modules and Courses
+Theme URI: https://
+Author: Kojin Glick (moonstripe.com)
+Author URI: https://github.com/moonstripe/dlinq-exceltutorials/graphs/contributors
+GitHub Theme URI: https://github.com/moonstripe/dlinq-exceltutorials/
+Description: This is the template for MIIS META Lab's Learn Excel website on Wordpress.
+A developer version (with Gulp/node and Sass sources) is available on gitHub: https://github.com/understrap/understrap
+A child theme is available on Github, too: https://github.com/understrap/understrap-child
+Forked from TWoodward, and DLINQ and the Understrap Authors;
+Version: 0.10.1
+Tested up to: 5.7.2
+Requires PHP: 5.2
+License: Learn Excel Project, Copyright 2022, MIIS Meta Lab
+LearnExcel Template is distributed under the terms of the GNU GPL version 2
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: understrap
+Tags: one-column, two-columns, three-columns, left-sidebar, right-sidebar, custom-background, custom-logo, custom-menu, featured-images, footer-widgets, full-width-template, theme-options, translation-ready
+
+Resource Licenses:
+Font Awesome: http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+Bootstrap: https://getbootstrap.com | https://github.com/twbs/bootstrap/blob/master/LICENSE (Code licensed under MIT, documentation under CC BY 3.0.)
+and of course
+jQuery: https://jquery.org | (Code licensed under MIT)
+WP Bootstrap Navwalker by Edward McIntyre: https://github.com/twittem/wp-bootstrap-navwalker | GNU GPL
+*/
+
+/*
+This file is just used to identify the theme in WordPress.
+The compiled CSS output can be found in /css/theme.css
+The SASS sources for it can be found in /sass/
+The dependencies can be found in /src/ after running "gulp copy-assets" terminal command
+
+...and now go out and play!
+*/
